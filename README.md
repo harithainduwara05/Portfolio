@@ -9,7 +9,7 @@
 
 A modern, responsive personal portfolio website built with **React** and **Vite**, featuring smooth animations, glassmorphism design, and a dark theme aesthetic.
 
-[🌐 Live Demo](https://github.com/harithainduwara05/Portfolio) · [📧 Contact](mailto:your.email@example.com) · [💼 LinkedIn](https://linkedin.com/)
+[🌐 Live Demo](portfolio-alpha-ten-88.vercel.app) · [📧 Contact](mailto:harithainduwara0205@gmail.com) · [💼 LinkedIn](www.linkedin.com/in/haritha-induwara-7bb479203)
 
 </div>
 
@@ -110,8 +110,8 @@ npm run build
 **Haritha Induwara**
 
 - 🌐 GitHub: [@harithainduwara05](https://github.com/harithainduwara05)
-- 💼 LinkedIn: [harithainduwara](https://linkedin.com/)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [harithainduwara](www.linkedin.com/in/haritha-induwara-7bb479203)
+- 📧 Email: harithainduwara0205@gmail.com
 
 ---
 
