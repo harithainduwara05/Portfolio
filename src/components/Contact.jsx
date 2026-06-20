@@ -109,7 +109,7 @@ export default function Contact() {
                     id="name"
                     type="text"
                     required
-                    placeholder="John Doe"
+                    placeholder="Haritha Induwara"
                     value={form.name}
                     onChange={(e) => setForm({ ...form, name: e.target.value })}
                     className="w-full px-4 py-3 rounded-xl bg-white/3 border border-white/8 text-white placeholder-[#6b6b85] text-sm outline-none focus:border-[#6c63ff]/50 focus:ring-2 focus:ring-[#6c63ff]/10 transition-all"
@@ -123,7 +123,7 @@ export default function Contact() {
                     id="email"
                     type="email"
                     required
-                    placeholder="john@example.com"
+                    placeholder="harithainduwara0205@gmail.com"
                     value={form.email}
                     onChange={(e) => setForm({ ...form, email: e.target.value })}
                     className="w-full px-4 py-3 rounded-xl bg-white/3 border border-white/8 text-white placeholder-[#6b6b85] text-sm outline-none focus:border-[#6c63ff]/50 focus:ring-2 focus:ring-[#6c63ff]/10 transition-all"
