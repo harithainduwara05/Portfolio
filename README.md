@@ -110,7 +110,7 @@ npm run build
 **Haritha Induwara**
 
 - 🌐 GitHub: [@harithainduwara05](https://github.com/harithainduwara05)
-- 💼 LinkedIn: [harithainduwara](www.linkedin.com/in/haritha-induwara-7bb479203)
+- 💼 LinkedIn: [harithainduwara](https://www.linkedin.com/in/haritha-induwara-7bb479203/)
 - 📧 Email: harithainduwara0205@gmail.com
 
 ---
