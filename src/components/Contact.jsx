@@ -1,16 +1,16 @@
 import { useState } from 'react'
 
 const methods = [
-  { icon: 'bx-envelope', label: 'Email', value: 'your.email@example.com', href: 'mailto:your.email@example.com' },
-  { icon: 'bx-phone', label: 'Phone', value: '+94 XX XXX XXXX', href: 'tel:+94XXXXXXXXX' },
+  { icon: 'bx-envelope', label: 'Email', value: 'harithainduwara0205@gmail.com', href: 'mailto:harithainduwara0205@gmail.com' },
+  { icon: 'bx-phone', label: 'Phone', value: '+94 773130288', href: 'tel:+94773130288' },
   { icon: 'bx-map', label: 'Location', value: 'Sri Lanka 🇱🇰', href: '#' },
 ]
 
 const socials = [
-  { icon: 'bxl-github',    label: 'GitHub',    href: 'https://github.com/',    cls: 'hover:bg-[#333] hover:border-[#333]' },
-  { icon: 'bxl-linkedin',  label: 'LinkedIn',  href: 'https://linkedin.com/',  cls: 'hover:bg-[#0077b5] hover:border-[#0077b5]' },
-  { icon: 'bxl-twitter',   label: 'Twitter',   href: 'https://twitter.com/',   cls: 'hover:bg-[#1da1f2] hover:border-[#1da1f2]' },
-  { icon: 'bxl-instagram', label: 'Instagram', href: 'https://instagram.com/', cls: 'hover:bg-[#e1306c] hover:border-[#e1306c]' },
+  { icon: 'bxl-github',    label: 'GitHub',    href: 'https://github.com/harithainduwara05',    cls: 'hover:bg-[#333] hover:border-[#333]' },
+  { icon: 'bxl-linkedin',  label: 'LinkedIn',  href: 'https://www.linkedin.com/in/haritha-induwara-7bb479203/',  cls: 'hover:bg-[#0077b5] hover:border-[#0077b5]' },
+  { icon: 'bxl-twitter',   label: 'Twitter',   href: 'https://x.com/harithaindu123',   cls: 'hover:bg-[#1da1f2] hover:border-[#1da1f2]' },
+  { icon: 'bxl-instagram', label: 'Instagram', href: 'https://www.instagram.com/harithainduwaraliyanapathirana?igsh=NzVmdHNvd3o4Zjdl', cls: 'hover:bg-[#e1306c] hover:border-[#e1306c]' },
 ]
 
 export default function Contact() {
